@@ -73,4 +73,13 @@ var BuiltinSwearWords = map[string]bool{
 	"asshat":      true,
 	"pu55y":       true,
 	"pen1s":       true,
+	"gandu":       true,
+	"gand mara":   true,
+	"Gand":        true,
+	"mkc":         true,
+	"teri maa ki": true,
+	"teri maa ki ch*t":       true,
+	"bkl":       true,
+	"bhen k lode":       true,
+	"bhn k lode":       true,
 }
